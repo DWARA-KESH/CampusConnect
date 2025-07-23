@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- login strings -->
+    <string name="hello_string">Hello</string>
+    <string name="sign_in_to_your_account_string">We are here to help you navigate through your grievances.</string>
+    <string name="username_string">Username</string>
+    <string name="password_string">Password</string>
+    <string name="cnf_pass">Confirm Password</string>
+    <string name="forgot_your_password__string">Forgot  your password?</string>
+    <string name="create_string">Create a new account.</string>
+    <string name="log_in_string">Log In</string>
+    <string name="new_str">New to this place.</string>
+    <string name="dnt_hv">Dont have an account.</string>
+    <string name="s_up">Sign up.</string>
+    <string name="ald_hv">Already have an account.</string>
+    <string name="logIn">Log In to continue.</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_content">
+
+    <![CDATA[
+        Welcome to Our College Grievance System!
+
+        Are you facing challenges or have concerns that you believe need attention? We have got you covered! Our College Grievance System provides a platform for students like you to voice your concerns and seek prompt resolution. \nHere\'s how it works: \n\n
+
+        Easy and Convenient:\n
+        Simply sign up or log in to your account to raise a complaint. We understand that your time is valuable, so we\'ve streamlined the process to make it quick and hassle-free.\n\n
+
+        Transparent and Categorized:\n
+        Your complaints are important to us. Our system allows you to categorize your concerns into specific areas such as Admission, Finance, Exams, Lecture, Timetable, Paper Re-evaluation, or Others. This ensures that your grievance is directed to the right department for efficient resolution.\n\n
+
+        Filter and Prioritize:\n
+        Our Admin team, committed to addressing your concerns, will filter complaints based on Department, Institute, or University levels. They can further prioritize and sort complaints based on keywords or urgency.\n\n
+
+        Timely Resolution:\n
+        Each complaint comes with a defined time limit. This ensures that your concerns are addressed promptly. If, unfortunately, the issue persists without resolution, the system automatically escalates it to higher levels, keeping you informed at every step.\n\n
+
+        Student-Friendly Updates:\n
+        You won\'t be left in the dark about the status of your complaint. Receive notifications on your dashboard, clearly indicating whether your complaint is "IN PROCESS" or "CLOSED by the Admin." We believe in keeping you informed throughout the resolution process.\n\n
+        University Recognition:\n
+        In case your grievance reaches the University level, a predefined email is forwarded to the University, ensuring they are promptly informed about the nature of the complaint. This not only expedites the process but also enhances transparency.\n\n
+
+        We believe that communication is key to resolving concerns effectively. The Grievance System serves as a bridge between you and the administration, promoting a healthy and responsive campus environment. Your concerns matter, and we\'re here to listen and take action.\n\n
+
+        Thank you for choosing our College Grievance System. Together, let\'s make our college experience better for everyone!
+    ]]>
+</string>
+    <string name="desc_plus_button">New Complaint</string>
+    <string name="complaint_string">Compaints</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

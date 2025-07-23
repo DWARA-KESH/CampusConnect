@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="grievance_types">
+        <item>Academic Issues</item>
+        <item>Administrative Problems</item>
+        <item>Harassment and Discrimination</item>
+        <item>Facilities and Infrastructure</item>
+        <item>Admission Related Grievances</item>
+        <item>Faculty-related Concerns</item>
+        <item>Health and Well-being</item>
+        <item>Others..</item>
+    </array>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242575281660",
+    "project_id": "grievenceapp",
+    "storage_bucket": "grievenceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242575281660:android:d626962adb7eff49633679",
+        "android_client_info": {
+          "package_name": "dwuu.demo.grievenceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx_W7-eMSKDfKOPwcFwqMaXiL63CxCgV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
